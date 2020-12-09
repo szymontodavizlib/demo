@@ -1,5 +1,3 @@
-<script src="/demo.js"></script>
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/szymontodavizlib/demo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
