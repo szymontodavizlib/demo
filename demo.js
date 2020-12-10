@@ -10,4 +10,4 @@ if (window.a) {
   debugger
 }
 
-})
+}, 1000)
